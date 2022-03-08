@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Furkan Ozarar
 - 👀 I’m interested in Android and iOS Mobile Applications
-- 🌱 Flutter/Dart
+- 🌱 Flutter/Dart, Swift
 - 📫 How to reach me fozarar@yahoo.com
 
 <!---
