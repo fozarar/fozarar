@@ -2,6 +2,7 @@
 - 👀 I’m interested in Android and iOS Mobile Applications
 - 🌱 Flutter/Dart, Swift
 - 📫 How to reach me fozarar@yahoo.com
+- Linkedin: https://www.linkedin.com/in/furkanozarar/
 
 <!---
 fozarar/fozarar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
