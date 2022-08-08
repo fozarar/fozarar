@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furkan Ozarar</h1>
 <h3 align="center">A passionate mobile application developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Fintech projects**
+- 🔭 I’m currently using **Flutter** in **Fintech projects**
 
 - 🌱 I’m currently learning **Swift**
 
