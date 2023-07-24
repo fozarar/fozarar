@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Furkan Özarar</h1>
+<h1 align="center">Hi 👋 , I'm Furkan Özarar</h1>
 <h3 align="center">A passionate software developer from Istanbul</h3>
 
 - 🔭 I’m currently working on [Oyak Trader Plus](https://apps.apple.com/tr/app/oyak-trader-plus/id1568846993)
